@@ -1,3 +1,4 @@
+[![Publish to npm](https://github.com/Qentah/timedTask/actions/workflows/publish.yml/badge.svg)](https://github.com/Qentah/timedTask/actions/workflows/publish.yml)
 # timedTask
 
 A Node.js utility to synchronously execute asynchronous tasks with timeout management.
