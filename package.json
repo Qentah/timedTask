@@ -1,5 +1,5 @@
 {
-  "name": "timedtask",
+  "name": "@qentah/timedtask",
   "version": "1.0.0",
   "description": "Executes an asynchronous task synchronously with a timeout",
   "license": "MIT",
