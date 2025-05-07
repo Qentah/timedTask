@@ -2,7 +2,7 @@
   "name": "timedtask",
   "version": "1.0.0",
   "description": "Executes an asynchronous task synchronously with a timeout",
-  "license": "ISC",
+  "license": "MIT",
   "author": "Qentah (Quentin HENRY)",
   "type": "commonjs",
   "main": "index.js",
