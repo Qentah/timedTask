@@ -1,0 +1,15 @@
+{
+  "name": "timedtask",
+  "version": "1.0.0",
+  "description": "Executes an asynchronous task synchronously with a timeout",
+  "license": "ISC",
+  "author": "Qentah (Quentin HENRY)",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "deasync": "^0.1.30"
+  }
+}
